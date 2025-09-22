@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sai SatyaSri</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sai SatyaSri</h1>
 <h3 align="center">🚀 A passionate Data Scientist 🚀</h3>
 
 <p align="center"><b><i>Exploratory Data Analysis 📊</i></b></p>
@@ -50,10 +50,6 @@ I'm proficient in a variety of tools and technologies, always eager to learn and
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  
-  <!-- Visualization Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -61,5 +57,3 @@ I'm proficient in a variety of tools and technologies, always eager to learn and
 ## 📊 GitHub Stats  
 
 ![SaiSatyaSri's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiSatyaSri52&show_icons=true&theme=radical)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaiSatyaSri52&theme=radical)](https://git.io/streak-stats)  
