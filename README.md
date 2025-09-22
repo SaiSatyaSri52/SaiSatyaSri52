@@ -6,8 +6,15 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaiSatyaSri52&label=Profile%20views&color=0e75b6&style=flat" alt="SaiSatyaSri52" />
+  <b><i>
+    <!-- Just copy-paste and edit as needed -->
+    <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-FF0000?style=for-the-badge&logo=google-analytics&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data%20Visualization-1E90FF?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-32CD32?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=brain&logoColor=white" />
+  </i></b>
 </p>
+
 
 ---
 
