@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sai SatyaSri</h1>
-<h3 align="center">🚀 A passionate Developer from India 🚀</h3>
+<h3 align="center">🚀 A passionate Data Scientist 🚀</h3>
 
 <p align="center"><b><i>Exploratory Data Analysis 📊</i></b></p>
 
@@ -13,14 +13,14 @@
 
 ## 🔭 About Me  
 
-Hello! I'm **Sai SatyaSri**, a passionate Developer with a knack for transforming complex problems into simple and efficient solutions.  
+Hello! I'm **Sai SatyaSri**, a passionate Data Scientist with a knack for transforming complex problems into simple and efficient solutions.  
 My journey in coding began with a fascination for building things that work smart, not just hard.  
 
-With a strong foundation in **C, Python, Java, SQL, Machine Learning, Flask**, I thrive on building robust and scalable solutions.  
+With a strong foundation in **Python, Java, SQL, Machine Learning, Flask**, I thrive on building robust and scalable solutions.  
 I'm proficient in a variety of tools and technologies, always eager to learn and adapt to new challenges in the ever-evolving tech landscape.  
 
-🌱 I’m currently diving deep into **Machine Learning and Aritifical Intelligence**.  
-💬 Ask me about **Python, Java, Flask, SQL, Machine Learning, Aritifical Intelligence**.  
+🌱 I’m currently diving deep into **Machine Learning and Artificial Intelligence**.  
+💬 Ask me about **Python, Java, Flask, SQL, Machine Learning, Artificial Intelligence**.  
 📫 How to reach me: **saisatyasrisaisatyasri7@gmail.com**  
 ⚡ Fun Fact: *I love turning complex problems into elegant code!* 💡  
 
@@ -37,14 +37,23 @@ I'm proficient in a variety of tools and technologies, always eager to learn and
 ## 🛠️ Languages & Tools  
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+  
+  <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
+  
+  <!-- Data Science / Analysis -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  
+  <!-- Visualization Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -53,4 +62,4 @@ I'm proficient in a variety of tools and technologies, always eager to learn and
 
 ![SaiSatyaSri's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiSatyaSri52&show_icons=true&theme=radical)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaiSatyaSri52&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaiSatyaSri52&theme=radical)](https://git.io/streak-stats)  
