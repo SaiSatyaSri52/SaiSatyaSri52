@@ -1,13 +1,9 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sai SatyaSri</h1>
 <h3 align="center">🚀 A passionate Data Scientist 🚀</h3>
 
-<p align="center"><b><i>Exploratory Data Analysis 📊</i></b></p>
-
----
-
+<!-- ✨ Tagline Badges (easy to edit) -->
 <p align="center">
   <b><i>
-    <!-- Just copy-paste and edit as needed -->
     <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-FF0000?style=for-the-badge&logo=google-analytics&logoColor=white" />
     <img src="https://img.shields.io/badge/Data%20Visualization-1E90FF?style=for-the-badge&logo=databricks&logoColor=white" />
     <img src="https://img.shields.io/badge/Machine%20Learning-32CD32?style=for-the-badge&logo=python&logoColor=white" />
@@ -15,6 +11,11 @@
   </i></b>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaiSatyaSri52&label=Profile%20views&color=0e75b6&style=flat" alt="SaiSatyaSri52" />
+</p>
 
 ---
 
