@@ -1,13 +1,13 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sai SatyaSri</h1>
 <h3 align="center">🚀 A passionate Data Scientist 🚀</h3>
 
-<!-- ✨ Tagline Badges (easy to edit) -->
+<!-- ✨ Tagline Badges (light professional colors) -->
 <p align="center">
   <b><i>
-    <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-FF0000?style=for-the-badge&logo=google-analytics&logoColor=white" />
-    <img src="https://img.shields.io/badge/Data%20Visualization-1E90FF?style=for-the-badge&logo=databricks&logoColor=white" />
-    <img src="https://img.shields.io/badge/Machine%20Learning-32CD32?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=brain&logoColor=white" />
+    <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-87CEEB?style=for-the-badge&logo=google-analytics&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data%20Visualization-90EE90?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-FFD580?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Artificial%20Intelligence-D8BFD8?style=for-the-badge&logo=brain&logoColor=white" />
   </i></b>
 </p>
 
