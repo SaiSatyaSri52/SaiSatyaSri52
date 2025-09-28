@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sai SatyaSri</h1>
 <h3 align="center">🚀 A passionate Data Scientist 🚀</h3>
 
-<!-- ✨ Tagline Badges (light professional colors) -->
+<!-- ✨ Tagline Badges -->
 <p align="center">
   <b><i>
     <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-87CEEB?style=for-the-badge&logo=google-analytics&logoColor=white" />
@@ -64,4 +64,16 @@ I'm proficient in a variety of tools and technologies, always eager to learn and
 
 ## 📊 GitHub Stats  
 
-![SaiSatyaSri's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiSatyaSri52&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiSatyaSri52&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiSatyaSri52&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSatyaSri52&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
+
+---
