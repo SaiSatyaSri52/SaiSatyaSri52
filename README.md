@@ -65,14 +65,6 @@ I'm proficient in a variety of tools and technologies, always eager to learn and
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiSatyaSri52&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiSatyaSri52&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSatyaSri52&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
